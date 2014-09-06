@@ -11,8 +11,4 @@ Ola
 * item 2
 * item 3 
 
-#H1
-##H2
-###H3
-
 Bananas
