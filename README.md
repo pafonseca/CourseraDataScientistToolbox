@@ -3,10 +3,6 @@ CourseraDataScientistToolbox
 
 Coursera Data Scientist Toolbox Course Work
 
-....
-Ola
-....
-
 * item 1
 * item 2
 * item 3 
@@ -14,5 +10,3 @@ Ola
 #H1
 ##H2
 ###H3
-
-Bananas
